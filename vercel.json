@@ -3,7 +3,7 @@
 	"builds": [
 		{
 			"src": "./index.js",
-            "src": "./gitam-logo.png", "use": "@vercel/static",
+            "src": "./gitam-logo.png",
 			"use": "@vercel/node"
 		}
 	],
